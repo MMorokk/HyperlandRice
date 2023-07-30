@@ -1,5 +1,5 @@
 # Whats HypeRice?
-HipeRice is just my simple rice for Hyperland.
+HipeRice is just my simple rice for Arch Hyperland.
 
 # Configs
 - Hypr
