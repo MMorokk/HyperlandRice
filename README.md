@@ -1,2 +1,2 @@
-# HyperlandRice
-My rice for hyperland
+# Whats HypeRice?
+HipeRice is just my simple rice for Hyperland.
